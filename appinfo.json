@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "larswillymodig@gmail.com",
+    "longName": "gyro",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "gyro",
+    "uuid": "5e0a28f5-f076-4058-b56b-74a46a0a61ac",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}

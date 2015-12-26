@@ -32,7 +32,7 @@ GPoint get_compas_pointer_coords(GPoint center) {
   APP_LOG(APP_LOG_LEVEL_DEBUG, "get_compas_pointer_coords(GPoint *center)");
   
   //CHANGE THIS METHOD TO will_not_crash()
-  float rads = (float) will_not_crash();
+  float rads = (float) will_crash();
   
   APP_LOG(APP_LOG_LEVEL_DEBUG, "Will crash after this depending on above method! rads: %i", (int) rads);
   
